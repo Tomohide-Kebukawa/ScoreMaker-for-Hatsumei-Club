@@ -13,7 +13,7 @@ GitHubに慣れていない方のためにダウンロード方法をメモし�
 ![Corone or Download](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png "ボタンサンプル")
 1. 小さなウィンドウがポップアップされる  
 ![ポップアップされたう小さなウィンドウ](https://help.github.com/assets/images/help/repository/https-url-clone.png "ボタンサンプル")
-1. ポップアップされたウィンドウ左下の「Download ZIP」を押す
+1. ポップアップされたウィンドウ右下の「Download ZIP」を押す
 1. ZIPファイルがダウンロードされる
 1. ZIPファイルを展開する
 1. 展開されたフォルダにある ScoreMaker.htmlをブラウザで開く
