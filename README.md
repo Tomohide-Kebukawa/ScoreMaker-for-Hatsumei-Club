@@ -17,6 +17,7 @@ GitHubに慣れていない方のためにダウンロード方法をメモし�
 1. ZIPファイルを展開する
 1. 展開されたフォルダにある ScoreMaker.htmlをブラウザで開く
 
+<br clear="right" />
 
 ## 注意
 * 推奨ブラウザはGoogle Chromeです
