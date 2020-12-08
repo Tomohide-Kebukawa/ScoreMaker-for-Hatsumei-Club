@@ -10,8 +10,8 @@
 GitHubに慣れていない方のためにダウンロード方法をメモしておきます。
 
 1. このページの右上にある緑色の「↓CODE」ボタンを押す
-1. 下で示すスクリーンショットのような小さなウィンドウがポップアップされる  
-![ポップアップされたう小さなウィンドウ](https://help.github.com/assets/images/help/repository/https-url-clone.png "ボタンサンプル")
+1. 下で示すスクリーンショットのような小さなウィンドウがポップアップされる 
+<img src="https://help.github.com/assets/images/help/repository/https-url-clone.png" width="300">
 1. ポップアップされたウィンドウ右下の「Download ZIP」を押す
 1. ZIPファイルがダウンロードされる
 1. ZIPファイルを展開する
