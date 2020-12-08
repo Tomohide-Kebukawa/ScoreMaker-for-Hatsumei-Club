@@ -8,9 +8,10 @@
 ダウンロードしたHTMLファイルをブラウザで開いてお使いください。
 
 GitHubに慣れていない方のためにダウンロード方法をメモしておきます。
+<img src="https://help.github.com/assets/images/help/repository/https-url-clone.png" width="300"  align="right">
 
 1. このページの右上にある緑色の「↓CODE」ボタンを押す
-1. スクリーンショット画像のような小さなウィンドウがポップアップされる <img src="https://help.github.com/assets/images/help/repository/https-url-clone.png" width="300">
+1. スクリーンショット画像のような小さなウィンドウがポップアップされる 
 1. ポップアップされたウィンドウ右下の「Download ZIP」を押す
 1. ZIPファイルがダウンロードされる
 1. ZIPファイルを展開する
