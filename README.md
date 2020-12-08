@@ -9,8 +9,7 @@
 
 GitHubに慣れていない方のためにダウンロード方法をメモしておきます。
 
-1. このページの右上にある緑色の「Corone or Download」ボタンを押す  
-![Corone or Download](https://help.github.com/assets/images/help/repository/clone-repo-clone-url-button.png "ボタンサンプル")
+1. このページの右上にある緑色の「↓CODE」ボタンを押す
 1. 小さなウィンドウがポップアップされる  
 ![ポップアップされたう小さなウィンドウ](https://help.github.com/assets/images/help/repository/https-url-clone.png "ボタンサンプル")
 1. ポップアップされたウィンドウ右下の「Download ZIP」を押す
